@@ -2,8 +2,6 @@
 
 namespace App\DataFixtures;
 
-use App\Entity\Article;
-use App\Entity\Comment;
 use App\Entity\Ip;
 use App\Entity\Subnet;
 use App\Entity\User;
