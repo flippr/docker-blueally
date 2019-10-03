@@ -43,6 +43,12 @@ class Subnet
      */
     private $ips;
 
+    public function __toString()
+    {
+        return (string)$this->getSubnet();
+    }
+
+
     public function __construct()
     {
         $this->ips = new ArrayCollection();

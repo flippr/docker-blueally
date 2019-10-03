@@ -36,6 +36,11 @@ class Ip
      */
     private $subnet;
 
+    public function __toString()
+    {
+        return (string)$this->getIp();
+    }
+
     public function getId(): ?int
     {
         return $this->id;
