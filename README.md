@@ -1,6 +1,6 @@
-Repository related to this blog article:
+Download docker
 
-[https://www.nielsvandermolen.com/symfony-4-api-platform-application/](https://www.nielsvandermolen.com/symfony-4-api-platform-application)
+Run *sh setupDevEnv.sh*
 
-Want to learn more? Please checkout this course of SymfonyCasts.
-https://symfonycasts.com/screencast/api-platform
+Documentation 
+http://localhost:8001/api/
